@@ -1,0 +1,5 @@
+update a 5
+update a 3
+update g 7
+list names
+list quantities
